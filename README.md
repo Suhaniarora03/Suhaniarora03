@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhani Arora</h1>
-<h3 align="center">A passionate Devops Engineer from India 🇮🇳. I'm on a mission to bridge the gap between software developer and IT operations. And the most powerful tool we developers have is automation.</h3>
+<h3 align="center">A passionate Devops Engineer from India. I'm on a mission to bridge the gap between software developer and IT operations. And the most powerful tool we developers have is automation.</h3>
 
 - 🔭 I’m currently working on **CI CD projects**
 
